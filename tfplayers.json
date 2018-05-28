@@ -6,7 +6,8 @@
       "age": "17",
       "class": "Scout/Soldier/Medic",
       "team": "Casualities (Highlander) / Wii Sports (6vs6)",
-      "top": "#10 WORLDWIDE"
+      "top": "#10 WORLDWIDE",
+	  "steam64": "76561198061538510"
     },
     {
       "name": "Vortex",
@@ -14,7 +15,8 @@
       "age": "19",
       "class": "Scout/Soldier/Demoman",
       "team": "UNKNWON",
-      "top": "#8 WORLDWIDE"
+      "top": "#8 WORLDWIDE",
+	  "steam64": "76561198107026626"
     }
   ]
 }
